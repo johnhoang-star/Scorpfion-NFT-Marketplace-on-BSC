@@ -1,0 +1,7 @@
+ID:             aee09eb3-20fd-43f7-ada1-fecab350aa52
+Host:           3wu7.l.serverhost.name
+CPU:            1 unit(s)      
+RAM:            2048 MB        
+Quota:          20 GB          
+IP(s):          176.223.138.66 
+Password:       AabEiukaM9uh
